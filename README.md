@@ -1,4 +1,4 @@
-# weather_app
+# COVID-19-app
 
 A new Flutter project.
 ![COVID-19 APP](https://github.com/Amna-Yasir/Flutter-Covid-19-Tracker-RestApi/assets/128790936/a6220190-4757-49dc-acf2-6bd9d26eb7e1)
